@@ -19,10 +19,14 @@
 - `/listencounters` – List saved encounters
 
 ## 🎲 Players & Rolls
-- `/addplayer` – Add a player using Pathbuilder ID
+- `/addplayer` – Add a player using their Pathbuilder ID  
+  > Go to Pathbuilder, export the character as JSON and copy the ID from the file.
+
 - `/updateplayers` – Sync updated stats from Pathbuilder
 - `/listplayers` – View registered players
-- `/roll` – Roll a skill or attack (e.g. `/roll ald nature`)
+- `/roll` – Roll a skill or attack (e.g. `/roll ald nature`)  
+  > You can use just part of the player name or alias to target the right character.
+
 - `/rollall` – Roll initiative for all players
 
 ## 🧼 Utilities

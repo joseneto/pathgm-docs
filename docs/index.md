@@ -8,7 +8,7 @@ PathGM is a powerful AI-powered assistant bot for Game Masters running Pathfinde
 
 Create rich characters, engaging plots, encounters, notes, and more — all in seconds, with support for campaign management and multilingual output.
 
-> Built by José Medeiros
+> Built by José Medeiros – jmedeiros.neto@gmail.com
 
 ## 🔍 Highlights
 
