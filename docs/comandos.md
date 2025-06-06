@@ -19,14 +19,37 @@
 - `/listencounters` – List saved encounters
 
 ## 🎲 Players & Rolls
-- `/addplayer` – Add a player using their Pathbuilder ID  
-  > Go to Pathbuilder, export the character as JSON and copy the ID from the file.
 
-- `/updateplayers` – Sync updated stats from Pathbuilder
-- `/listplayers` – View registered players
+### `/addplayer`
+
+Adds a player character using their Pathbuilder 2e JSON ID.  
+To find it:
+
+1. Open the character in the Pathbuilder 2 app.  
+2. Tap **"Export JSON"**  
+3. Copy the number under **"Pathbuilder 2e JSON ID"**
+
+📷 Example:
+![Pathbuilder ID example](./player-json-id.jpeg)
+
+Then use:
+
+```
+/addplayer 362368
+```
+
+You can also add a custom name or alias:
+
+```
+/addplayer 362368 aldarin
+```
+
+### Other player commands
+
+- `/updateplayers` – Sync updated stats from Pathbuilder  
+- `/listplayers` – View registered players  
 - `/roll` – Roll a skill or attack (e.g. `/roll ald nature`)  
-  > You can use just part of the player name or alias to target the right character.
-
+  > You can use just part of the player name or alias to target the right character.  
 - `/rollall` – Roll initiative for all players
 
 ## 🧼 Utilities
