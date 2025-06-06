@@ -1,31 +1,31 @@
-# 📜 Comandos do PathGM
+# 📜 PathGM – Commands Overview
 
-### 🎭 Personagens e NPCs
-- `/npc` – Criar um NPC (amigável ou inimigo)
-- `/listnpcs` – Listar todos os NPCs salvos
+## 🎭 Characters & NPCs
+- `/npc` – Create an NPC (friendly or enemy)
+- `/listnpcs` – List saved NPCs
 
-### ✍️ Anotações e Lores
-- `/addnote` – Criar uma anotação
-- `/listnotes` – Listar anotações
-- `/lore` – Criar um lore
-- `/listlores` – Listar lores
+## ✍️ Notes & Lore
+- `/addnote` – Create a campaign note
+- `/listnotes` – List notes
+- `/lore` – Create custom lore
+- `/listlores` – List lore entries
 
-### 📖 Tramas
-- `/plot` – Criar um plot com gancho e reviravolta
-- `/listplots` – Listar plots
+## 📖 Plot Hooks
+- `/plot` – Generate a plot with hook and twist
+- `/listplots` – View saved plots
 
-### ⚔️ Encontros
-- `/encounter` – Criar um encontro com base no ambiente e nível
-- `/listencounters` – Listar encontros
+## ⚔️ Encounters
+- `/encounter` – Create a combat encounter (terrain + level)
+- `/listencounters` – List saved encounters
 
-### 🎲 Jogadores
-- `/addplayer` – Adicionar jogador
-- `/updateplayers` – Atualizar dados de jogador
-- `/listplayers` – Listar jogadores
-- `/roll` – Fazer uma rolagem
-- `/rollall` – Rolar para todos
+## 🎲 Players & Rolls
+- `/addplayer` – Add a player using Pathbuilder ID
+- `/updateplayers` – Sync updated stats from Pathbuilder
+- `/listplayers` – View registered players
+- `/roll` – Roll a skill or attack (e.g. `/roll ald nature`)
+- `/rollall` – Roll initiative for all players
 
-### 🧼 Utilitários
-- `/cleardata` – Apagar dados por tipo
-- `/menu` – Menu interativo
-- `/about` – Sobre o bot
+## 🧼 Utilities
+- `/cleardata` – Clear data by type (notes, NPCs, etc)
+- `/menu` – Interactive menu
+- `/about` – Info about the bot

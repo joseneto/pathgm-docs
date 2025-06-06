@@ -2,12 +2,20 @@
 title: PathGM
 ---
 
-# 🧙 PathGM – Seu assistente de RPG para Pathfinder 2e
+# 🧙 PathGM
 
-PathGM é um bot de Telegram que ajuda mestres de Pathfinder 2e a criar e organizar conteúdos como NPCs, encontros, anotações e muito mais com o auxílio de IA.
+PathGM is a powerful AI-powered assistant bot for Game Masters running Pathfinder 2e campaigns on Telegram.
 
-> Criado por José Medeiros
+Create rich characters, engaging plots, encounters, notes, and more — all in seconds, with support for campaign management and multilingual output.
 
-## 🌐 Comandos principais
+> Built by José Medeiros
 
-Veja a lista completa de comandos em [comandos.md](comandos.md)
+## 🔍 Highlights
+
+- 🧠 Smart NPC and lore generation with built-in plot twists
+- 📖 Encounter creation by terrain and level
+- 📝 Notes and plot tracking with pagination
+- 🎲 Player rolls and integrations with Pathbuilder
+
+Explore the full list of commands below:
+👉 [Commands Overview](comandos.md)
