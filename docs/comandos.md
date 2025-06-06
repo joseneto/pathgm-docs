@@ -38,12 +38,6 @@ Then use:
 /addplayer 362368
 ```
 
-You can also add a custom name or alias:
-
-```
-/addplayer 362368 aldarin
-```
-
 ### Other player commands
 
 - `/updateplayers` – Sync updated stats from Pathbuilder  
