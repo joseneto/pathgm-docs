@@ -18,6 +18,10 @@
 - `/encounter` – Create a combat encounter (terrain + level)
 - `/listencounters` – List saved encounters
 
+## 🏘️ Villages
+- `/generatevillage` – Create a detailed fantasy village
+- `/listvillages` – View saved villages
+
 ## 🎲 Players & Rolls
 
 ### `/addplayer`
@@ -38,6 +42,12 @@ Then use:
 /addplayer 362368
 ```
 
+You can also add a custom name or alias:
+
+```
+/addplayer 362368 aldarin
+```
+
 ### Other player commands
 
 - `/updateplayers` – Sync updated stats from Pathbuilder  
@@ -45,8 +55,24 @@ Then use:
 - `/roll` – Roll a skill or attack (e.g. `/roll ald nature`)  
   > You can use just part of the player name or alias to target the right character.  
 - `/rollall` – Roll initiative for all players
+- `/d20` – Flat d20 roll with optional modifier
 
 ## 🧼 Utilities
 - `/cleardata` – Clear data by type (notes, NPCs, etc)
 - `/menu` – Interactive menu
 - `/about` – Info about the bot
+- `/help` – View full documentation and examples
+- `/credits` – Check your available AI credits
+
+---
+
+## 🤝 Group Commands
+
+These commands are available when using the bot in a group:
+
+- `/addplayer`
+- `/updateplayers`
+- `/listplayers`
+- `/roll`
+- `/rollall`
+- `/d20`
