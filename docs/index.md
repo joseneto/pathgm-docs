@@ -14,7 +14,7 @@ Create rich characters, engaging plots, encounters, villages, notes, and more �
 
 - 🧠 Smart NPC, plot and lore generation with twists
 - ⚔️ Encounter creation by terrain and party level
-- 🏘️ Village creation with maps and rumors
+- 🏘️ Village creation with NPCs and rumors
 - 📖 Note, plot, and village tracking with pagination
 - 🎲 Player rolls + Pathbuilder integration
 - 👥 Group support for rolling and managing characters
