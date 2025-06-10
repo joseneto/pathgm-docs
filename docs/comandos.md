@@ -1,54 +1,66 @@
 # 📜 PathGM – Commands Overview
 
 ## 🧠 AI-Powered Commands (consume credits)
+
 These commands use AI to generate rich, game-ready content in seconds:
 
-- `/npc` – Create an NPC with backstory and behavior
-- `/plot` – Generate a story hook and plot twist
-- `/lore` – Write lore for any location or topic
-- `/encounter` – Build a combat encounter (terrain + party level)
-- `/generatevillage` – Design a fantasy village with locations and rumors
-- `/generateitem` – Create a unique magical item
-- `/generateplayer` – Generate a level 1 character optimized for play:
-  - Choose a **name**, **class**, and **style** (Aggressive, Defensive, Controller, Neutral)
-  - Comes with equipment, stats, and is ready for export
+- `/gennpc` – Generate a random NPC (1💎)
+- `/genplot` – Generate a story hook (1💎)
+- `/genlore` – Generate campaign lore (1💎)
+- `/genencounter` – Create a balanced encounter (1💎)
+- `/genvillage` – Create a fantasy village with NPCs and locations (2💎)
+- `/genitem` – Generate a magical item (1💎)
+- `/genplayer` – Generate a level 1 character with AI (2💎)  
+  Choose class, name, and one of 4 styles: Aggressive, Defensive, Controller, Neutral
 
 ---
 
 ## 🎲 Players & Character Management
 
-- `/importplayer` – Import a player from Pathbuilder (via JSON ID)
-- `/syncplayers` – Sync all imported players from Pathbuilder
-- `/newplayer` – Manually create a player character
-- `/editplayer` – Edit any character's stats, saves, or skills
-- `/listplayers` – View all player characters
+- `/importplayer` – Import character from Pathbuilder
+- `/syncplayers` – Sync all Pathbuilder characters
+- `/newplayer` – Create character manually
+- `/editplayer` – Edit character attributes or skills
+- `/listplayers` – Show players in this group
 
 ---
 
 ## ✍️ Notes & Lore
 
-- `/addnote` – Create a campaign note
-- `/listnotes` – View all notes
-- `/lore` – Generate lore with AI
-- `/listlores` – View all lore entries
+- `/addnote` – Add a campaign note
+- `/listnotes` – List your notes
+- `/genlore` – Generate campaign lore (1💎)
+- `/listlores` – List lores
 
 ---
 
 ## 📖 Plot Hooks
 
-- `/plot` – Generate a plot hook and twist
-- `/listplots` – View saved plots
+- `/genplot` – Generate a story hook (1💎)
+- `/listplots` – List plots
 
 ---
 
 ## ⚔️ Encounters
 
-- `/encounter` – Create a battle encounter
+- `/genencounter` – Create a balanced combat encounter (1💎)
 - `/listencounters` – List saved encounters
 
 ---
 
 ## 🏘️ Villages
 
-- `/generatevillage` – Generate a fantasy village
+- `/genvillage` – Create a fantasy village (2💎)
 - `/listvillages` – View saved villages
+
+---
+
+## 💎 Utility & System
+
+- `/credits` – Check your credit balance
+- `/menu` – Open main menu
+- `/help` – View help guide
+- `/about` – About this bot
+- `/roll` – Roll for a character
+- `/rollall` – Roll all players
+- `/d20` – Roll a flat d20
