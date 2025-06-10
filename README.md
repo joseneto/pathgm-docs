@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="200" alt="PathGM Logo" />
+</p>
+
 # 📚 PathGM Docs
 
 Official documentation for [PathGM](https://t.me/PathGM_Bot), an AI-powered assistant bot for Pathfinder 2e Game Masters on Telegram.
@@ -14,33 +18,30 @@ Official documentation for [PathGM](https://t.me/PathGM_Bot), an AI-powered assi
 
 ---
 
-## 📄 What you'll find here
+## 🧠 What is PathGM?
 
-This repository contains:
+PathGM is a Telegram bot designed to help Game Masters manage campaigns, create rich content, and speed up session prep — all tailored to **Pathfinder 2e Remaster**.  
+It leverages **AI-powered commands** to generate high-quality lore, characters, and encounters in seconds.
+
+---
+
+## ⚙️ Key Features
+
+- Generate NPCs, plots, encounters, villages, and more with AI
+- Manage characters and import directly from Pathbuilder 2e
+- Store notes, lores, and game hooks interactively
+- Intuitive Telegram-based interface with multi-language support
+- Credit system to manage usage fairly
+
+---
+
+## 🧙 About this Repository
+
+This repo contains the bot's documentation files:
 
 - `index.md` — Welcome and overview
 - `comandos.md` — Full command list and usage examples
-- `player-json-id.jpeg` — Visual guide to locate your Pathbuilder JSON ID
-- `_config.yml` — Configuration file for Jekyll theme
-
-The documentation is written in Markdown and styled with the [Minimal Jekyll Theme](https://github.com/pages-themes/minimal).
+- `_config.yml` — Jekyll config
+- `player-json-id.jpeg` — Pathbuilder visual guide
 
 ---
-
-## 🚀 Contributing
-
-If you'd like to suggest improvements to the docs or report an issue, feel free to open a pull request or contact me directly.
-
----
-
-## 🧙 About PathGM
-
-PathGM is a Telegram bot that helps GMs manage and enhance Pathfinder 2e campaigns with AI-generated:
-
-- NPCs (friendly or enemy)
-- Encounters by level and terrain
-- Plot hooks and twists
-- Lore and worldbuilding notes
-- Player rolls with Pathbuilder integration
-
-All content is localized and organized by campaign.
